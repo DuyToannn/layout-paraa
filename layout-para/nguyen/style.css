@@ -1,0 +1,100 @@
+.background{
+    background-image: url(./img/backgroundpara.png);
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    object-fit: cover;
+}
+img {
+    position: absolute;
+    width: 444px;
+    height: 155px;
+    left: 493px;
+    top: 41px;
+}
+.box {
+    position: absolute;
+    background: rgba(243, 240, 215, 0.5);
+    width: 463px;
+    height: 216px;
+    top: 234px;
+    left: 488px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 5px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+p {
+    position: absolute;
+    width: 432px;
+    height: 60px;
+    left: 13px;
+    top: 3px;
+    font-family: Roboto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #00045A;
+    vertical-align: top;
+}
+.Create {
+    position: absolute;
+    width: 164px;
+    height: 50px;
+    left: 42px;
+    top: 133px;
+    background-color: #59CBFE;
+    border-radius: 10px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    border: 1px solid #59CBFE;
+    box-sizing: border-box;
+    box-shadow: 5px 4px 4px 0px rgb(0 0 0 / 25%);
+    border-radius: 10px;
+}
+.Cancel {
+    position: absolute;
+    width: 164px;
+    height: 50px;
+    left: 252px;
+    top: 133px;
+    background-color: #59CBFE;
+    border-radius: 10px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    border: 1px solid #59CBFE;
+    box-sizing: border-box;
+    box-shadow: 5px 4px 4px 0px rgb(0 0 0 / 25%);
+    border-radius: 10px;
+}
+.footer {
+    position: absolute;
+    width: 316px;
+    height: 54px;
+    left: 562px;
+    top: 790px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #00045A;
+}
