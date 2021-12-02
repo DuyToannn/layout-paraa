@@ -1,0 +1,62 @@
+html,body{
+    height:100%;
+}
+body {
+    background-image: url("./img/backgroundpara.png");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+}
+span {
+    color:red;
+}
+.box {
+    width: 463px;
+    height: 216px;
+    background: rgba(243, 240, 215, 0.5);
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin:auto;
+    margin-top:1%;
+}
+.text {
+    margin-top: 13%;
+    color: #00045A;
+}
+.container {
+    text-align: center;
+    margin:auto;
+}
+.footer {
+    margin-top: 20% ;
+    color: #00045A;
+}
+img {
+    width: 444px;
+    height: 155px;
+    left: 498px;
+    top: 55px;
+    margin-top: 2%;
+}
+button {
+    width: 164px;
+    height: 50px;
+    left: 639px;
+    top: 373px;
+    background: #59CBFE;
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+}
