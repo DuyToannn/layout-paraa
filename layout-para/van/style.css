@@ -2,7 +2,7 @@ html,body{
     height: 100%;
     margin: 0%;
 }
-.hihi {
+.container {
     background-image: url("./img/backgroundpara.png");
     background-repeat: no-repeat;
     background-size: 100% 120%
