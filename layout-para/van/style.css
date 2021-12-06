@@ -41,11 +41,11 @@ span {
     color: #00045A;
 }
 img {
-    width: 444px;
-    height: 155px;
+    width: 30%;
+    height: 20%;
+    margin-top: 2%;
     left: 498px;
     top: 55px;
-    margin-top: 2%;
 }
 button {
     width: 164px;
