@@ -1,0 +1,46 @@
+.bg {
+    background: url(img/backgroundpara.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 900px;
+   
+}
+.bg img {
+    width: 400px;
+    height: 130px;
+    padding-top: 55px;
+    padding-left: 470px;
+    
+}
+
+.bg .box {
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.bg .box input {
+    border-radius: 5px;
+    width: 300px;
+    height: 20px;
+    font-size: 15px;
+}
+
+.bg .button {
+    text-align: center;
+    
+}
+.bg .button button {
+    background-color: #59CBFE;
+    border-radius: 5px;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    
+}
+
+.bg .lienlac {
+    text-align: center;
+    margin: 380px;
+    font-size: 20px;
+    
+}
